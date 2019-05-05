@@ -1,0 +1,15 @@
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\bin\Debug\CubeSolver.exe.config
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\bin\Debug\CubeSolver.exe
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\bin\Debug\CubeSolver.pdb
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\obj\Debug\CubeSolver.csprojAssemblyReference.cache
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\obj\Debug\CubeSolver.Form1.resources
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\obj\Debug\CubeSolver.Properties.Resources.resources
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\obj\Debug\CubeSolver.csproj.GenerateResource.cache
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\obj\Debug\CubeSolver.csproj.CoreCompileInputs.cache
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\obj\Debug\CubeSolver.exe
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\obj\Debug\CubeSolver.pdb
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\bin\Debug\AForge.dll
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\bin\Debug\AForge.Video.dll
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\bin\Debug\DarrenLee.Media.dll
+C:\Users\kentp\OneDrive\Documents\Visual Studio 2017\Projects\CubeSolver\CubeSolver\obj\Debug\CubeSolver.csproj.CopyComplete

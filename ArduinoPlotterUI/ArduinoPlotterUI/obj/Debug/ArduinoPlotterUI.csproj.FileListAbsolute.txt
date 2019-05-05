@@ -1,0 +1,9 @@
+c:\users\kentp\documents\visual studio 2017\Projects\ArduinoPlotterUI\ArduinoPlotterUI\bin\Debug\ArduinoPlotterUI.exe.config
+c:\users\kentp\documents\visual studio 2017\Projects\ArduinoPlotterUI\ArduinoPlotterUI\bin\Debug\ArduinoPlotterUI.exe
+c:\users\kentp\documents\visual studio 2017\Projects\ArduinoPlotterUI\ArduinoPlotterUI\bin\Debug\ArduinoPlotterUI.pdb
+c:\users\kentp\documents\visual studio 2017\Projects\ArduinoPlotterUI\ArduinoPlotterUI\obj\Debug\ArduinoPlotterUI.csprojResolveAssemblyReference.cache
+c:\users\kentp\documents\visual studio 2017\Projects\ArduinoPlotterUI\ArduinoPlotterUI\obj\Debug\ArduinoPlotterUI.ArduinoPlotterUI_form.resources
+c:\users\kentp\documents\visual studio 2017\Projects\ArduinoPlotterUI\ArduinoPlotterUI\obj\Debug\ArduinoPlotterUI.Properties.Resources.resources
+c:\users\kentp\documents\visual studio 2017\Projects\ArduinoPlotterUI\ArduinoPlotterUI\obj\Debug\ArduinoPlotterUI.csproj.GenerateResource.Cache
+c:\users\kentp\documents\visual studio 2017\Projects\ArduinoPlotterUI\ArduinoPlotterUI\obj\Debug\ArduinoPlotterUI.exe
+c:\users\kentp\documents\visual studio 2017\Projects\ArduinoPlotterUI\ArduinoPlotterUI\obj\Debug\ArduinoPlotterUI.pdb
