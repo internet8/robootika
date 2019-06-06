@@ -1,5 +1,5 @@
 <h1>Robootika projektid</h1>
-<p>Panen siia robootika aine raames tehtud projhektid.</p>
+<p>Panen siia robootika aine raames tehtud projektid.</p>
 <img src="cube.jpg">
 <img src="plotter.jpg">
 
